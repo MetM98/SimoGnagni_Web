@@ -24,7 +24,7 @@ const Hero = () => {
                 className="absolute inset-0 z-0"
                 style={{
                     y: backgroundY,
-                    backgroundImage: `url('/Images/Simo1.JPG')`,
+                    backgroundImage: `url('./Images/Simo1.JPG')`,
                     backgroundPosition: 'top center',
                     backgroundSize: 'cover',
                 }}
@@ -50,7 +50,7 @@ const Hero = () => {
                 className="absolute bottom-0 w-full h-[75vh] md:h-[85vh] z-20 pointer-events-none"
                 style={{
                     y: foregroundY,
-                    backgroundImage: `url('/Images/Simo1-cutout.png')`,
+                    backgroundImage: `url('./Images/Simo1-cutout.png')`,
                     backgroundPosition: 'bottom center',
                     backgroundSize: 'contain',
                     backgroundRepeat: 'no-repeat',

@@ -40,7 +40,7 @@ const Gallery = () => {
                 >
                     {/* Main Image */}
                     <img
-                        src="/Images/Simo2.JPG"
+                        src="./Images/Simo2.JPG"
                         alt="Dynamic Motion"
                         className="absolute w-full h-full object-cover object-[center_20%] md:object-[center_30%] transition-transform duration-700 group-hover:scale-105"
                     />
