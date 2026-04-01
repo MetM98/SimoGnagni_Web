@@ -58,7 +58,7 @@ const Footer = () => {
 
                 {/* Huge Background Text at the very bottom */}
                 <h1 className="text-[15vw] leading-none font-anton text-white/5 uppercase tracking-tighter mt-12 pointer-events-none select-none">
-                    CALISTHENICS
+                    FREESTYLE
                 </h1>
             </div>
         </footer>
